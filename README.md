@@ -1,9 +1,9 @@
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharanAmit)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m @sharanAmit
+- 👋 Hi, I’m Amit Sharan
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Flutter and FastApi
+- 💞️ I’m looking to collaborate on Flutter related project
+- 📫 you can reach me at :- amitsharan120977@gmail.com
 
 <!---
 sharanAmit/sharanAmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
